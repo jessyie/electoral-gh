@@ -1,0 +1,5 @@
+1. Open anaconda powershell prompt with administrator rights (in this case 'right-click on "anaconda powershell prompt" and select "run as administator")
+2. Activate your env (in this case it is 'conda activate electoralApp')
+3. Navigate to the project directory (in this case it is 'cd C:\Users\dgift\Downloads\electoral_dashbaord-master\electoral_dashbaord-master')
+4. Finally run the server (in this case 'python manage.py runserver')
+5. You can paste the url given or type localhost:8000 in your browser to visualize the app.
